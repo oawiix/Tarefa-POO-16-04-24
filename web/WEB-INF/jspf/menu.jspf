@@ -1,0 +1,12 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+    
+    <div style="text-align: center; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px;">
+        <a href="index.jsp">INICIO</a>
+        <a href="form-numero-primo.jsp">Número Primo</a>
+        <a href="form-fibonacci.jsp">Fibonacci</a>
+        <a href="form-soma.jsp">Soma</a>
+    </div>
+        
+
